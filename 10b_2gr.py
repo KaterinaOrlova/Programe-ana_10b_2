@@ -4,23 +4,23 @@ Kudrjavceva Veronika
 Melnic Ana
 3 	
 Mihailovs Alekss
-4 	
-Orlova Katerina
+print(9-2)	
+#Orlova Katerina
 5 	
-Rimare Sabîne
+Rimare SabÃ®ne
 6 	
 Sidorenko Aleksandrs
 7 	
-Siïiòğ Deniss
+SiÃ¯iÃ²Ã° Deniss
 8 	
 Skodorovs Vlads
 9 	
 Smirnovs Volodars
 10 	
-Verşanovskis Marks
+VerÃ¾anovskis Marks
 11 	
 Volkova Veronika
 12 	
-Zariòğ Roberts
+ZariÃ²Ã° Roberts
 13 	
-Şaravins Kirills
+Ãaravins Kirills
